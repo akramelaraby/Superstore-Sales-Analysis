@@ -4,7 +4,7 @@
 
 This project provides a comprehensive analysis of Superstore's sales performance, utilizing SQL, Tableau, and Python. By diving deep into the data, we aim to uncover valuable insights that can drive strategic business decisions.
 
-# Key Objectives: #
+# Key Objectives: 
 
 - Analyze sales trends by region, product category, and customer segment
 - Identify top-performing customers and products
@@ -35,15 +35,15 @@ This project provides a comprehensive analysis of Superstore's sales performance
 - **Evaluation:** *Analyzed forecast accuracy using confidence intervals and compared it against actual sales.*
 
 
-## Forcasting Key Visualizations ##
-#1. **Customized Forecast of Sales#
+##Forcasting Key Visualizations
+**1. Customized Forecast of Sales**
 ![Customized Forecast of Sales](https://github.com/user-attachments/assets/e77b8223-5b1a-4578-89cd-c1df0d5b9ecc)
 
 - **Description:** *Displays the predicted sales over time with historical data and confidence intervals.*
 - **Purpose:** *Highlights how well the model aligns with actual sales trends.*
 
 
-#2. Forecast Components#
+**2. Forecast Components**
 ![Forecast Components](https://github.com/user-attachments/assets/fb9ab4bd-b520-4852-81d1-d241c92be5b8)
 
 - **Trend Component:** *Illustrates the long-term direction of sales.*
@@ -52,22 +52,22 @@ This project provides a comprehensive analysis of Superstore's sales performance
 
 
 
-#3. Forecasted Sales Over Time#
+**3. Forecasted Sales Over Time**
 ![Forecasted Sales OverTime](https://github.com/user-attachments/assets/fd0aaf8d-abb4-493a-913b-b556f4c18336)
 - **Description:** *Compares historical sales data with the forecast, showing predictions over time.*
 
 
-#4.Sales Forecast with Uncertainty Intervals#
+**4.Sales Forecast with Uncertainty Intervals**
 ![Sales Forecast with Uncertainty Intervals](https://github.com/user-attachments/assets/b6c26052-17cc-4617-95c6-8e0e7869cd7c)
 
 
 
-#5.Residuals Over Time#
+**5.Residuals Over Time**
 ![Residuals Over Time](https://github.com/user-attachments/assets/30a591be-9c7c-49a3-813c-f1b1170b4ab8)
 
 
 
-## Tools and Technologies ##
+# Tools and Technologies 
 
 Tableau: For data visualization.
 SQL: for data Analysis
